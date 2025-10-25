@@ -33,6 +33,7 @@ Then import it as a **Maven project** in your IDE:
 - **VS Code** → install the *Extension Pack for Java* and open the folder.
 
 To compile and run a program manually:
+
 ```bash
 mvn compile
 mvn exec:java -Dexec.mainClass="concurrence.CountingSemaphore" -Dexec.args="6"
@@ -56,5 +57,5 @@ under their own respective licenses.
 
 ### Suggested attribution
 
-> *"Source code from the course **Programmation Concurrente en Multi-Threads** —  
-> © 2025 Matthieu Perrin, licensed under the MIT License."*
+> "Source code from the course *Programmation Concurrente en Multi-Threads* —  
+> © 2025 Matthieu Perrin, licensed under the MIT License."
