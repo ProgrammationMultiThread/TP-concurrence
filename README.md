@@ -1,4 +1,4 @@
-# Concurrent Multithreaded Programming – Practical Session (TP)
+# Concurrent Multithreaded Programming – Introduction to concurrency (TP)
 
 This repository contains the **starter code and exercises** for the first hands-on session (*Travaux Pratiques*) of the *[Programmation Concurrente en Multi-Threads](https://github.com/ProgrammationMultiThread/)* course at **Nantes Université**.
 
