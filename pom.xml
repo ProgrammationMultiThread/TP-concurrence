@@ -10,8 +10,8 @@
   <groupId>com.github.programmationmultithread</groupId>
   <artifactId>tp-concurrence</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>TP Introduction à la concurrence — Concurrent Multithreaded Programming</name>
-  <description>Starter code for an introductory practical session used in the course at Nantes Université.</description>
+  <name>Introduction à la concurrence — Concurrent Multithreaded Programming</name>
+  <description>Starter code for an introductory practical session on concurreny.</description>
   <url>https://github.com/ProgrammationMultiThread/TP-concurrence</url>
 
   <licenses>
